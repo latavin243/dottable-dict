@@ -1,3 +1,5 @@
 # DottableDict
 
-Dot accessible python dict.
+A Dummy Dot accessible python dict.
+
+More features will be added in the future.
